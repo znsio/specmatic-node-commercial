@@ -1,0 +1,17 @@
+{
+  "name": "specmatic-commercial",
+  "version": "1.0.0",
+  "description": "Specmatic Commercial Distribution Package",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/znsio/specmatic-node-commercial"
+  },
+  "keywords": [
+    "specmatic",
+    "kafka",
+    "graphql"
+  ],
+  "author": "Specmatic",
+  "license": "ISC"
+}
